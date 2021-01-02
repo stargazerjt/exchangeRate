@@ -1,0 +1,7 @@
+com\stargate\exchangeRate\models\CurrencyRate.class
+com\stargate\exchangeRate\services\ExchangeRateService.class
+com\stargate\exchangeRate\services\impl\ExchangeRateServiceImpl.class
+com\stargate\exchangeRate\ExchangeRateApplication.class
+com\stargate\exchangeRate\services\ExchangeRateRepository.class
+com\stargate\exchangeRate\models\ExchangeSet.class
+com\stargate\exchangeRate\controllers\ExchangeController.class
